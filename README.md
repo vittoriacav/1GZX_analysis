@@ -1,6 +1,6 @@
 # Hemoglobin: basic bioinformatics analysis
 
-:books: "Proteomes, Interactomes and Biological Networks" project (UniBo)
+:books: "Proteomes, Interactomes and Biological Networks" project (Gneomics, UniBo)
 
 The tetrameric protein called hemoglobin is the major responsible for oxygen transport from lungs (or gills) to the rest of the body in mammals. Since oxygen-carrying property was discovered in 1840, many studies have been carried out trying to determine its crystal structure and functional mechanism. It was discovered that mutated hemoglobin can be involved in many diseases, above all sickle cell anemia. For this reason, examination of this protein should be continued. This study is based on well-grounded data retrieved from reliable sources such as Protein Data Bank and EMBL-EBI IntAct database. A bioinformatic approach was chosen to analyse the most relevant interactions found in the 1GZX crystal structure, comprising monomer-monomer interactions, monomer-heme/oxy group interactions, and surface interactions. Different methods were employed to confirm and validate results. Main results include hydrophobicity of the internal region of the protein, identification of important residues and explanation of their role. The results also help us deduce the 3D structure of the protein.
 
